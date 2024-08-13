@@ -4,7 +4,7 @@ This repository contains an analysis of U.S. Department of Defense contract data
 Contents
 
     Defense_Contract_Analysis.ipynb: The Jupyter notebook containing all the analysis and visualizations.
-    Data was sourced [from usaspending.gov](https://www.usaspending.gov/).
+    Data was sourced from usaspending.gov.
 
 Analysis Overview
 
