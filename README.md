@@ -21,3 +21,7 @@ Requirements
     Jupyter Notebook
     Pandas
     Plotly
+
+## View the Interactive Notebook
+
+You can view the interactive version of this notebook [here](https://nbviewer.org/github/MSurowaniec/Defense-Cotract-Analysis/blob/main/Defence_Contract_Analysis.ipynb) on nbviewer.
